@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Local dataset folder
+sentiment140/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
